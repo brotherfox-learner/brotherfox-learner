@@ -12,9 +12,9 @@
 
 ## 🧑‍💻 About Me
 
-![]🚀 An enthusiastic coder with a passion for web development, algorithms, and problem-solving exercises.
-![]🔧 Diverse skill set including Java, JavaScript, Vue, TypeScript, CSS, and HTML.
-![]🌐 Interests revolve around front-end and back-end development, as well as algorithmic problem solving.
+🚀 An enthusiastic coder with a passion for web development, algorithms, and problem-solving exercises.  
+🔧 Diverse skill set including Java, JavaScript, Vue, TypeScript, CSS, and HTML.  
+🌐 Interests revolve around front-end and back-end development, as well as algorithmic problem solving.
 
 ---
 
