@@ -37,8 +37,8 @@
 | Project | Description | Stars | Language |
 |---------|-------------|-------|----------|
 | [**course-flow**](https://github.com/brotherfox-learner/course-flow) | — | ⭐ 0 | JavaScript |
+| [**docipy**](https://github.com/brotherfox-learner/docipy) | — | ⭐ 0 | TypeScript |
 | [**neatly-client**](https://github.com/brotherfox-learner/neatly-client) | — | ⭐ 0 | Vue |
-| [**neatly-server**](https://github.com/brotherfox-learner/neatly-server) | — | ⭐ 0 | Java |
 | [**yama-decor**](https://github.com/brotherfox-learner/yama-decor) | — | ⭐ 0 | JavaScript |
 
 
